@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourites</title>
+</head>
+
+<body>
+
+    <h1>My Favourites (Movie, Book, Website) </h1>
+
+    <div class="card">
+        <h2>Favourite Book: Read People Like a Book</h2>
+
+        <img
+            src="https://images.unsplash.com/photo-1544947950-fa07a98d237f"
+            alt="A book"
+            width="300"
+            height="200"
+        >
+
+        <p>
+            <strong>Read People Like a Book</strong> is an interesting book
+            about understanding people's thoughts, emotions, and behavior.
+            I find it <em>useful and interesting</em> for understanding people better.
+        </p>
+
+        <a href="https://en.wikipedia.org/wiki/Read_People_Like_a_Book"
+        target="_blank" rel="noopener noreferrer">
+            Read more
+        </a>
+    </div>
+
+    <div class="card">
+        <h2>Favourite Film: Taare Zameen Par</h2>
+
+        <img
+            src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba"
+            alt="Movie theatre"
+            width="300"
+            height="200"
+        >
+
+        <p>
+            <strong>Taare Zameen Par</strong> is a meaningful Indian film
+            about a child who struggles with learning and how a teacher
+            helps him understand his abilities. It is <em>emotional and inspiring</em>.
+        </p>
+
+        <a href="https://en.wikipedia.org/wiki/Taare_Zameen_Par"
+        target="_blank" rel="noopener noreferrer">
+            Read more 
+        </a>
+    </div>
+
+    <div class="card">
+        <h2>Favourite Website: Claude</h2>
+
+        <img
+            src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+            alt="Computer screen"
+            width="300"
+            height="200"
+        >
+
+        <p>
+            <strong>Claude</strong> is an AI assistant that I find
+            <em>useful for learning and getting ideas</em>.
+            It can help with questions, writing, studying, and programming.
+        </p>
+
+        <a href="https://claude.ai/"
+        target="_blank" rel="noopener noreferrer">
+          Claude
+        </a>
+    </div>
+
+</body>
+
+</html>
