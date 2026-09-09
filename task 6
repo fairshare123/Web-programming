@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sel Roti Recipe</title>
+</head>
+
+<body>
+
+    <h1>Sel Roti Recipe</h1>
+
+    <p>
+        <strong>Sel Roti</strong> is a traditional Nepali rice bread that is
+        crispy on the outside and soft on the inside. It is especially popular
+        during festivals and celebrations.
+    </p>
+
+    <img
+    src="https://www.willflyforfood.net/wp-content/uploads/2022/05/donuts-sel-roti.jpg"
+    alt="Traditional Nepali Sel Roti"
+    width="300"
+    height="200"
+>
+
+    <h2>Ingredients</h2>
+
+    <ul>
+        <li>Rice</li>
+        <li>Sugar</li>
+        <li>Milk</li>
+        <li>Ghee</li>
+        <li>Cardamom</li>
+    </ul>
+
+    <h2>Preparation</h2>
+
+    <ol>
+        <li>Soak the rice overnight and grind it into a smooth batter.</li>
+        <li>Add sugar, milk, ghee, and cardamom to the batter.</li>
+        <li>Mix everything until the batter is smooth.</li>
+        <li>Heat oil in a deep pan.</li>
+        <li>Pour the batter into the oil in a ring shape.</li>
+        <li>Fry until golden brown and serve.</li>
+    </ol>
+
+</body>
+
+</html>
+
+
+</html>v
