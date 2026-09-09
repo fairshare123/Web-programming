@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+
+<body>
+
+    <h1>Dipika Aryal</h1>
+<p>
+    Hello! I am a <strong>student</strong> at Gachon University who is interested
+    in <em>web programming</em> and enjoys learning how websites are created.
+</p>
+
+    <img
+    src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    alt="Laptop computer on a desk"
+    width="200"
+    height="200"
+>
+
+    <h2>My Skills</h2>
+
+    <ul>
+        <li>HTML &amp; CSS</li>
+        <li>Python &amp; C++</li>
+        <li>Web Design</li>
+    </ul>
+
+    <p>
+        <a href="https://www.gachon.ac.kr/" target="_blank">
+            Visit Gachon University
+        </a>
+    </p>
+
+    <footer>
+        <p>© 2026 Dipika Aryal</p>
+        <p><strong>StudentID: </strong>202539456</p>
+    </footer>
+
+</body>
+
+</html>
