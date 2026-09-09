@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Trying New Recipes</title>
+</head>
+
+<body>
+
+    <h1>Trying New Recipes</h1>
+
+    <p>I enjoy trying new recipes because I like experimenting with different ingredients and discovering new flavors.</p>
+
+    <h2>Things I Like to Try</h2>
+
+    <ul>
+        <li>Korean food</li>
+        <li>Pasta dishes</li>
+        <li>Desserts</li>
+        <li>New recipes from different countries</li>
+    </ul>
+
+</body>
+
+</html>
