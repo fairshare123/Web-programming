@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Favorite Place</title>
+</head>
+
+<body>
+
+    <h1>My Favorite Place</h1>
+
+    <img src="https://tong.visitkorea.or.kr/cms/resource/02/2654602_image2_1.bmp"
+         alt="Haneul Park"
+         width="400"
+         height="300">
+
+    <p>This is one of my favorite places because I enjoy the peaceful atmosphere and beautiful surroundings.</p>
+
+</body>
+
+</html>
